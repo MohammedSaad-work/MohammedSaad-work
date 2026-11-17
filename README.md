@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohammed Saad
 
-<!--
-**MohammedSaad-work/MohammedSaad-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my career in data engineering through hands-on practice and continuous learning. I work with Python, SQL, and Apache Spark, and I'm developing my skills with AWS and Databricks.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building data workflows with Python, SQL, and Spark
+- Practicing cloud and lakehouse concepts with AWS and Databricks
+- Growing my portfolio with practical data engineering projects
+
+## Skills
+
+- **Languages:** Python, SQL
+- **Data processing:** Apache Spark
+- **Cloud and data platforms:** AWS, Databricks
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mohammedsaad-dataengineer)
